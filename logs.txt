@@ -1,0 +1,8 @@
+[Event "?"]
+[Site "?"]
+[Data "?"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+1. e2e4 e7e5 2. Ng1f3 Ng8f6 *
